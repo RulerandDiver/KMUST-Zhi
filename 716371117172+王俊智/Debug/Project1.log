@@ -1,0 +1,6 @@
+﻿  机器人坐标变换.c
+C:\Users\Administrator\Desktop\716371117172+王俊智\机器人坐标变换.c(114,26): warning C4013: “menu_select2”未定义；假设外部返回 int
+C:\Users\Administrator\Desktop\716371117172+王俊智\机器人坐标变换.c(121,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\716371117172+王俊智\机器人坐标变换.c(141,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\716371117172+王俊智\机器人坐标变换.c(161,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\716371117172+王俊智\Debug\Project1.exe
